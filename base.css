@@ -390,7 +390,7 @@ progress {
 }
 
 .layout-desktop .mainDetailButtons {
-    margin-top: 350px;
+    margin-top: 365px; /* Adjust this to move buttons up or down slightly */
     margin-left: 292px;
     position: absolute;
 }
