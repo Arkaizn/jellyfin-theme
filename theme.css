@@ -4,14 +4,14 @@
     You can grab the base theme by changing jamfin.css to base.css in the first line.
 */
 
-@import url("base.css");
-@import url("static-sidebar.css");
-@import url("central-libraries-small.css");
-@import url("change-logo.css");
-@import url("count-indicators.css");
-@import url("forgot-password.css");
-@import url("hide-my-media.css");
-@import url("moving-cards.css");
-@import url("smaller-cast.css");
-@import url("floating-progress.css");
+@import url("https://cdn.jsdelivr.net/gh/Arkaizn/jellyfin-theme@main/base.css");
+@import url("https://cdn.jsdelivr.net/gh/Arkaizn/jellyfin-theme@main/modules/static-sidebar.css");
+@import url("https://cdn.jsdelivr.net/gh/Arkaizn/jellyfin-theme@main/modules/central-libraries-small.css");
+@import url("https://cdn.jsdelivr.net/gh/Arkaizn/jellyfin-theme@main/modules/change-logo.css");
+@import url("https://cdn.jsdelivr.net/gh/Arkaizn/jellyfin-theme@main/modules/count-indicators.css");
+@import url("https://cdn.jsdelivr.net/gh/Arkaizn/jellyfin-theme@main/modules/forgot-password.css");
+@import url("https://cdn.jsdelivr.net/gh/Arkaizn/jellyfin-theme@main/modules/hide-my-media.css");
+@import url("https://cdn.jsdelivr.net/gh/Arkaizn/jellyfin-theme@main/modules/moving-cards.css");
+@import url("https://cdn.jsdelivr.net/gh/Arkaizn/jellyfin-theme@main/modules/smaller-cast.css");
+@import url("https://cdn.jsdelivr.net/gh/Arkaizn/jellyfin-theme@main/modules/floating-progress.css");
 

@@ -5,7 +5,7 @@
 */
 
 :root {
-    --logo-url: url('logo.png');
+    --logo-url: url('https://cdn.jsdelivr.net/gh/Arkaizn/jellyfin-theme@main/logo.png');
 }
 
 .pageTitleWithDefaultLogo,
