@@ -1,0 +1,17 @@
+/*
+    The complete pack of the Jamfin theme. This file includes all the modules and the main theme.
+    If you wish to use only some of the modules, you can import them individually.
+    You can grab the base theme by changing jamfin.css to base.css in the first line.
+*/
+
+@import url("base.css");
+@import url("static-sidebar.css");
+@import url("central-libraries-small.css");
+@import url("change-logo.css");
+@import url("count-indicators.css");
+@import url("forgot-password.css");
+@import url("hide-my-media.css");
+@import url("moving-cards.css");
+@import url("smaller-cast.css");
+@import url("floating-progress.css");
+
